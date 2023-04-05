@@ -651,7 +651,7 @@ header .shopping-cart .btn{
         display: block;
     }
 }
-@media (max-width:430px){
+@media (max-width:425px){
     html{
         font-size: 50%;
         width: 50%;
